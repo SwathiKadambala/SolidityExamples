@@ -10,7 +10,7 @@ contract StructOperations{
     
     struct InsurancePolicy {
         
-        mapping(uint => bool) premiumDetails;   // A mapping which stores premium no and is paid or not    
+        mapping(uint => bool) premiumDetails;   // A mapping which stores premium no and status which tells whether premium is paid or not    
     }
     
     // Declaration of struct 
