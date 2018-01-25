@@ -2,7 +2,8 @@ pragma solidity ^0.4.17;
 
 /********
  * This contract shows the various operations performed on user defined struct which has simple mapping  
- * 
+ * By Swathi Kadambala
+ * 25.01.2018
  *********/
 contract StructOperations{
     
